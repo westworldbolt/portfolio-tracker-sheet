@@ -1,0 +1,9 @@
+{
+  "product": "Portfolio Tracker Sheet",
+  "version": "2.9.7",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "us-east",
+  "auto_update": true,
+  "telemetry": false
+}
